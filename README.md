@@ -1,7 +1,7 @@
 # social website for space enthusiasts
 
-```bash
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+```sh
+home:~$python manage.py makemigrations
+home:~$python manage.py migrate
+home:~$python manage.py runserver
 ```

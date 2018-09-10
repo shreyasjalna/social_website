@@ -1,6 +1,6 @@
 # social website for space enthusiasts
 
-```sh
+```console
 home:~$ python manage.py makemigrations
 home:~$ python manage.py migrate
 home:~$ python manage.py runserver

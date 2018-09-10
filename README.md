@@ -1,6 +1,6 @@
 # social website for space enthusiasts
 
-```$bash
+```bash
 python manage.py makemigrations
 python manage.py migrate
 python manage.py runserver
